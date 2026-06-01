@@ -1,0 +1,202 @@
+﻿1;Alfa Comercial Ltda;11222333000181;Sacado A;15000,00;10/01/2026;10/06/2026;a_vencer;1
+2;Alfa Comercial Ltda;11222333000181;Sacado B;8500,50;10/01/2026;01/03/2026;liquidado;2
+3;Beta Serviços S.A.;45678901234;Sacado C;22000,00;01/02/2026;15/07/2026;a_vencer;1
+4;Beta Serviços S.A.;45678901234;Sacado D;3100,00;01/02/2026;30/11/2025;vencido;1
+5;Gama Indústria ME;98765432100;Sacado E;500,00;01/03/2026;01/08/2026;a_vencer;1
+6;Gama Indústria ME;98765432100;Sacado F;12000,00;15/03/2026;01/02/2026;inadimplente;2
+7;Delta Factoring;07896541000132;Sacado G;45000,00;20/01/2026;30/09/2026;a_vencer;1
+8;Delta Factoring;07896541000132;Sacado H;7200,00;01/04/2026;15/05/2026;inadimplente;3
+9;Épsilon Crédito;00012345678;Sacado I;18500,00;10/02/2026;10/10/2026;a_vencer;1
+10;Épsilon Crédito;00012345678;Sacado J;6000,00;10/02/2026;31/12/2025;inadimplente;2
+11;Zeta Comércio;11111111111;Sacado K;9500,00;01/03/2026;01/11/2026;a_vencer;1
+12;Zeta Comércio;11111111111;Sacado L;4200,00;01/03/2026;15/04/2026;vencido;2
+13;Eta Logística;29384756000;Sacado M;31000,00;01/04/2026;10/01/2027;a_vencer;1
+14;Eta Logística;29384756000;Sacado N;11000,00;01/04/2026;01/12/2026;inadimplente;2
+15;Theta Atacado;12345678901;Sacado O;27500,00;01/05/2026;01/03/2027;a_vencer;1
+16;Theta Atacado;12345678901;Sacado P;5500,00;01/05/2026;30/06/2026;a_vencer;2
+17;Iota Serviços;98765432100;Sacado Q;13000,00;15/01/2026;15/08/2026;a_vencer;1
+18;Iota Serviços;98765432100;Sacado R;;15/01/2026;01/07/2026;a_vencer;2
+19;Kappa Distribuidora;33344455500;Sacado S;19000,00;20/02/2026;20/09/2026;a_vencer;1
+20;Kappa Distribuidora;33344455500;Sacado T;8800,00;20/02/2026;15/10/2026;vencido;2
+21;Lambda Importações;56789012345678;Sacado U;62000,00;10/03/2026;10/06/2027;a_vencer;1
+22;Lambda Importações;56789012345678;Sacado V;14000,00;10/03/2026;30/11/2026;a_vencer;2
+23;Mu Tecnologia;73829104756;Sacado W;8000,00;05/04/2026;05/12/2026;a_vencer;1
+24;Mu Tecnologia;73829104756;Sacado X;3500,00;05/04/2026;20/05/2026;liquidado;2
+25;Nu Consultoria;00098765432;Sacado Y;16000,00;25/01/2026;25/08/2026;a_vencer;1
+26;Nu Consultoria;00098765432;Sacado Z;7500,00;25/01/2026;01/10/2025;vencido;3
+27;Xi Engenharia;45678901000195;Sacado AA;53000,00;10/05/2026;10/09/2027;a_vencer;1
+28;Xi Engenharia;45678901000195;Sacado BB;21000,00;10/05/2026;01/08/2026;inadimplente;2
+29;Omicron Saúde;12345678901234;Sacado CC;9800,00;15/02/2026;15/07/2026;a_vencer;1
+30;Omicron Saúde;12345678901234;Sacado DD;4100,00;15/02/2026;01/06/2026;liquidado;2
+31;Pi Alimentos;55566677788;Sacado EE;34000,00;20/03/2026;20/02/2027;a_vencer;1
+32;Pi Alimentos;55566677788;Sacado FF;6800,00;20/03/2026;10/05/2026;vencido;2
+33;Rho Varejo;99887766554;Sacado GG;11500,00;10/04/2026;10/10/2026;a_vencer;1
+34;Rho Varejo;99887766554;Sacado HH;5200,00;10/04/2026;01/09/2026;inadimplente;3
+35;Sigma Construções;12312312312;Sacado II;28000,00;30/01/2026;30/12/2026;a_vencer;1
+36;Sigma Construções;12312312312;Sacado JJ;9200,00;30/01/2026;01/04/2026;liquidado;2
+37;Tau Mineração;00011122233;Sacado KK;41000,00;25/02/2026;25/05/2027;a_vencer;1
+38;Tau Mineração;00011122233;Sacado LL;15500,00;25/02/2026;15/03/2026;inadimplente;2
+39;Upsilon Energia;78901234500;Sacado MM;23000,00;05/03/2026;05/11/2026;a_vencer;1
+40;Upsilon Energia;78901234500;Sacado NN;8100,00;05/03/2026;20/07/2026;a_vencer;2
+41;Phi Transportes;36925814700;Sacado OO;17000,00;15/04/2026;15/10/2026;a_vencer;1
+42;Phi Transportes;36925814700;Sacado PP;6300,00;15/04/2026;30/08/2026;inadimplente;2
+43;Chi Agronegócio;12345000100;Sacado QQ;38000,00;01/05/2026;01/04/2027;a_vencer;1
+44;Chi Agronegócio;12345000100;Sacado RR;13500,00;01/05/2026;15/09/2026;a_vencer;2
+45;Psi Farmacêutica;00000000000;Sacado SS;5000,00;10/01/2026;10/06/2026;a_vencer;1
+46;Psi Farmacêutica;00000000000;Sacado TT;2200,00;10/01/2026;01/05/2026;liquidado;2
+47;Omega Financeira;99999999999999;Sacado UU;71000,00;01/02/2026;01/07/2027;a_vencer;1
+48;Omega Financeira;99999999999999;Sacado VV;25000,00;01/02/2026;15/10/2026;inadimplente;2
+49;Alpha Prime;48059791000108;Sacado WW;44000,00;15/03/2026;15/08/2027;a_vencer;1
+50;Alpha Prime;48059791000108;Sacado XX;18000,00;15/03/2026;01/09/2025;vencido;2
+51;Beta Secundária;07700547000172;Sacado YY;29000,00;20/04/2026;20/10/2027;a_vencer;1
+52;Beta Secundária;07700547000172;Sacado ZZ;10500,00;20/04/2026;15/06/2026;a_vencer;2
+53;Gama Terciária;52998224725;Sacado AAA;6500,00;05/05/2026;05/12/2026;a_vencer;1
+54;Gama Terciária;52998224725;Sacado BBB;3000,00;05/05/2026;20/08/2026;a_vencer;2
+55;Delta Quaternária;11144477735;Sacado CCC;19500,00;15/01/2026;15/09/2026;a_vencer;1
+56;Delta Quaternária;11144477735;Sacado DDD;7700,00;15/01/2026;30/07/2026;inadimplente;2
+57;Épsilon Quinta;22233344455;Sacado EEE;14000,00;28/02/2026;28/10/2026;a_vencer;1
+58;Épsilon Quinta;22233344455;Sacado FFF;5100,00;28/02/2026;31/05/2026;vencido;2
+59;Zeta Sexta;33322211100;Sacado GGG;9000,00;10/03/2026;10/11/2026;a_vencer;1
+60;Zeta Sexta;33322211100;Sacado HHH;4400,00;10/03/2026;20/06/2026;a_vencer;2
+61;Eta Sétima;44455566677;Sacado III;22000,00;01/04/2026;01/12/2026;a_vencer;1
+62;Eta Sétima;44455566677;Sacado JJJ;8800,00;01/04/2026;15/07/2026;inadimplente;2
+63;Theta Oitava;55544433322;Sacado KKK;31500,00;10/05/2026;10/03/2027;a_vencer;1
+64;Theta Oitava;55544433322;Sacado LLL;12000,00;10/05/2026;25/09/2026;a_vencer;2
+65;Iota Nona;66677788899;Sacado MMM;17500,00;20/01/2026;20/08/2026;a_vencer;1
+66;Iota Nona;66677788899;Sacado NNN;6900,00;20/01/2026;30/04/2026;liquidado;2
+67;Kappa Décima;77788899900;Sacado OOO;26000,00;10/02/2026;10/11/2026;a_vencer;1
+68;Kappa Décima;77788899900;Sacado PPP;9300,00;10/02/2026;05/08/2026;inadimplente;2
+69;Lambda Décima Primeira;88899900011;Sacado QQQ;13500,00;01/03/2026;01/10/2026;a_vencer;1
+70;Lambda Décima Primeira;88899900011;Sacado RRR;5800,00;01/03/2026;10/07/2026;a_vencer;2
+71;Mu Décima Segunda;99900011122;Sacado SSS;8200,00;10/04/2026;10/12/2026;a_vencer;1
+72;Mu Décima Segunda;99900011122;Sacado TTT;3700,00;10/04/2026;25/06/2026;vencido;2
+73;Nu Décima Terceira;10011022033;Sacado UUU;47000,00;01/05/2026;01/05/2027;a_vencer;1
+74;Nu Décima Terceira;10011022033;Sacado VVV;16500,00;01/05/2026;20/10/2026;inadimplente;2
+75;Xi Décima Quarta;21122033044;Sacado WWW;11000,00;25/01/2026;25/09/2026;a_vencer;1
+76;Xi Décima Quarta;21122033044;Sacado XXX;4600,00;25/01/2026;15/05/2026;liquidado;2
+77;Omicron Décima Quinta;32233044055;Sacado YYY;35000,00;15/02/2026;15/02/2027;a_vencer;1
+78;Omicron Décima Quinta;32233044055;Sacado ZZZ;13000,00;15/02/2026;20/11/2026;a_vencer;2
+79;Pi Décima Sexta;43344055066;Sacado AAAA;24000,00;20/03/2026;20/12/2026;a_vencer;1
+80;Pi Décima Sexta;43344055066;Sacado BBBB;9100,00;20/03/2026;10/08/2026;inadimplente;2
+81;Rho Décima Sétima;54455066077;Sacado CCCC;18000,00;05/04/2026;05/11/2026;a_vencer;1
+82;Rho Décima Sétima;54455066077;Sacado DDDD;7000,00;05/04/2026;25/07/2026;a_vencer;2
+83;Sigma Décima Oitava;65566077088;Sacado EEEE;42000,00;15/05/2026;15/06/2027;a_vencer;1
+84;Sigma Décima Oitava;65566077088;Sacado FFFF;15000,00;15/05/2026;30/10/2026;a_vencer;2
+85;Tau Décima Nona;76677088099;Sacado GGGG;9700,00;30/01/2026;30/09/2026;a_vencer;1
+86;Tau Décima Nona;76677088099;Sacado HHHH;4300,00;30/01/2026;15/06/2026;inadimplente;2
+87;Upsilon Vigésima;87788099100;Sacado IIII;27000,00;20/02/2026;20/12/2026;a_vencer;1
+88;Upsilon Vigésima;87788099100;Sacado JJJJ;10200,00;20/02/2026;05/09/2026;a_vencer;2
+89;Phi Vigésima Primeira;98899100111;Sacado KKKK;33000,00;25/03/2026;25/01/2027;a_vencer;1
+90;Phi Vigésima Primeira;98899100111;Sacado LLLL;12500,00;25/03/2026;20/08/2026;inadimplente;2
+91;Chi Vigésima Segunda;09900111122;Sacado MMMM;21000,00;15/04/2026;15/11/2026;a_vencer;1
+92;Chi Vigésima Segunda;09900111122;Sacado NNNN;8400,00;15/04/2026;30/07/2026;a_vencer;2
+93;Psi Vigésima Terceira;10001112223;Sacado OOOO;15500,00;05/05/2026;05/12/2026;a_vencer;1
+94;Psi Vigésima Terceira;10001112223;Sacado PPPP;6100,00;05/05/2026;10/09/2026;vencido;2
+95;Omega Vigésima Quarta;21112223334;Sacado QQQQ;38500,00;15/01/2026;15/01/2027;a_vencer;1
+96;Omega Vigésima Quarta;21112223334;Sacado RRRR;14200,00;15/01/2026;25/10/2026;inadimplente;2
+97;Alpha Vigésima Quinta;32223334445;Sacado SSSS;11500,00;25/02/2026;25/10/2026;a_vencer;1
+98;Alpha Vigésima Quinta;32223334445;Sacado TTTT;4800,00;25/02/2026;05/06/2026;a_vencer;2
+99;Beta Vigésima Sexta;43334445556;Sacado UUUU;26500,00;15/03/2026;15/11/2026;a_vencer;1
+100;Beta Vigésima Sexta;43334445556;Sacado VVVV;9800,00;15/03/2026;25/08/2026;inadimplente;2
+101;Gama Vigésima Sétima;54445556667;Sacado WWWW;17000,00;20/04/2026;20/12/2026;a_vencer;1
+102;Gama Vigésima Sétima;54445556667;Sacado XXXX;6500,00;20/04/2026;05/07/2026;a_vencer;2
+103;Delta Vigésima Oitava;65556667778;Sacado YYYY;44500,00;10/05/2026;10/07/2027;a_vencer;1
+104;Delta Vigésima Oitava;65556667778;Sacado ZZZZ;16000,00;10/05/2026;25/11/2026;a_vencer;2
+105;Épsilon Vigésima Nona;76667778889;Sacado AAAAA;8500,00;20/01/2026;20/09/2026;a_vencer;1
+106;Épsilon Vigésima Nona;76667778889;Sacado BBBBB;3200,00;20/01/2026;10/05/2026;liquidado;2
+107;Zeta Trigésima;87778889990;Sacado CCCCC;31000,00;10/02/2026;10/02/2027;a_vencer;1
+108;Zeta Trigésima;87778889990;Sacado DDDDD;11500,00;10/02/2026;05/10/2026;inadimplente;2
+109;Eta Trigésima Primeira;98889990001;Sacado EEEEE;22500,00;01/03/2026;01/11/2026;a_vencer;1
+110;Eta Trigésima Primeira;98889990001;Sacado FFFFF;8700,00;01/03/2026;20/07/2026;a_vencer;2
+111;Theta Trigésima Segunda;09990001112;Sacado GGGGG;13000,00;10/04/2026;10/12/2026;a_vencer;1
+112;Theta Trigésima Segunda;09990001112;Sacado HHHHH;5300,00;10/04/2026;30/08/2026;inadimplente;2
+113;Iota Trigésima Terceira;10001112223;Sacado IIIII;36000,00;01/05/2026;01/03/2027;a_vencer;1
+114;Iota Trigésima Terceira;10001112223;Sacado JJJJJ;13200,00;01/05/2026;15/10/2026;a_vencer;2
+115;Kappa Trigésima Quarta;21112223334;Sacado KKKKK;9100,00;25/01/2026;25/09/2026;a_vencer;1
+116;Kappa Trigésima Quarta;21112223334;Sacado LLLLL;3900,00;25/01/2026;10/06/2026;vencido;2
+117;Lambda Trigésima Quinta;32223334445;Sacado MMMMM;48000,00;15/02/2026;15/04/2027;a_vencer;1
+118;Lambda Trigésima Quinta;32223334445;Sacado NNNNN;17500,00;15/02/2026;30/11/2026;inadimplente;2
+119;Mu Trigésima Sexta;43334445556;Sacado OOOOO;12000,00;20/03/2026;20/10/2026;a_vencer;1
+120;Mu Trigésima Sexta;43334445556;Sacado PPPPP;4700,00;20/03/2026;15/07/2026;a_vencer;2
+121;Nu Trigésima Sétima;54445556667;Sacado QQQQQ;28500,00;05/04/2026;05/12/2026;a_vencer;1
+122;Nu Trigésima Sétima;54445556667;Sacado RRRRR;10800,00;05/04/2026;20/09/2026;inadimplente;2
+123;Xi Trigésima Oitava;65556667778;Sacado SSSSS;19000,00;15/05/2026;15/01/2027;a_vencer;1
+124;Xi Trigésima Oitava;65556667778;Sacado TTTTT;7200,00;15/05/2026;30/10/2026;a_vencer;2
+125;Omicron Trigésima Nona;76667778889;Sacado UUUUU;33500,00;10/01/2026;10/11/2026;a_vencer;1
+126;Omicron Trigésima Nona;76667778889;Sacado VVVVV;12300,00;10/01/2026;15/08/2026;inadimplente;2
+127;Pi Quadragésima;87778889990;Sacado WWWWW;8000,00;20/02/2026;20/10/2026;a_vencer;1
+128;Pi Quadragésima;87778889990;Sacado XXXXX;3100,00;20/02/2026;30/06/2026;a_vencer;2
+129;Rho Quadragésima Primeira;98889990001;Sacado YYYYY;42000,00;10/03/2026;10/05/2027;a_vencer;1
+130;Rho Quadragésima Primeira;98889990001;Sacado ZZZZZ;15800,00;10/03/2026;25/11/2026;inadimplente;2
+131;Sigma Quadragésima Segunda;09990001112;Sacado AAAAAA;24500,00;01/04/2026;01/12/2026;a_vencer;1
+132;Sigma Quadragésima Segunda;09990001112;Sacado BBBBBB;9400,00;01/04/2026;10/09/2026;a_vencer;2
+133;Tau Quadragésima Terceira;10011022033;Sacado CCCCCC;14000,00;10/05/2026;10/01/2027;a_vencer;1
+134;Tau Quadragésima Terceira;10011022033;Sacado DDDDDD;5600,00;10/05/2026;25/10/2026;inadimplente;2
+135;Upsilon Quadragésima Quarta;21122033044;Sacado EEEEEE;37000,00;15/01/2026;15/03/2027;a_vencer;1
+136;Upsilon Quadragésima Quarta;21122033044;Sacado FFFFFF;14000,00;15/01/2026;10/12/2026;a_vencer;2
+137;Phi Quadragésima Quinta;32233044055;Sacado GGGGGG;11000,00;25/02/2026;25/10/2026;a_vencer;1
+138;Phi Quadragésima Quinta;32233044055;Sacado HHHHHH;4500,00;25/02/2026;20/07/2026;inadimplente;2
+139;Chi Quadragésima Sexta;43344055066;Sacado IIIIII;26000,00;15/03/2026;15/11/2026;a_vencer;1
+140;Chi Quadragésima Sexta;43344055066;Sacado JJJJJJ;9700,00;15/03/2026;30/08/2026;a_vencer;2
+141;Psi Quadragésima Sétima;54455066077;Sacado KKKKKK;17500,00;20/04/2026;20/12/2026;a_vencer;1
+142;Psi Quadragésima Sétima;54455066077;Sacado LLLLLL;6800,00;20/04/2026;05/09/2026;inadimplente;2
+143;Omega Quadragésima Oitava;65566077088;Sacado MMMMMM;43000,00;05/05/2026;05/08/2027;a_vencer;1
+144;Omega Quadragésima Oitava;65566077088;Sacado NNNNNN;16200,00;05/05/2026;20/11/2026;a_vencer;2
+145;Alpha Quadragésima Nona;76677088099;Sacado OOOOOO;9500,00;20/01/2026;20/09/2026;a_vencer;1
+146;Alpha Quadragésima Nona;76677088099;Sacado PPPPPP;3800,00;20/01/2026;05/06/2026;vencido;2
+147;Beta Quinquagésima;87788099100;Sacado QQQQQQ;32000,00;10/02/2026;10/01/2027;a_vencer;1
+148;Beta Quinquagésima;87788099100;Sacado RRRRRR;12000,00;10/02/2026;20/10/2026;inadimplente;2
+149;Gama Quinquagésima Primeira;98899100111;Sacado SSSSSS;21500,00;01/03/2026;01/11/2026;a_vencer;1
+150;Gama Quinquagésima Primeira;98899100111;Sacado TTTTTT;8300,00;01/03/2026;15/08/2026;a_vencer;2
+151;Delta Quinquagésima Segunda;09900111122;Sacado UUUUUU;13000,00;10/04/2026;10/12/2026;a_vencer;1
+152;Delta Quinquagésima Segunda;09900111122;Sacado VVVVVV;5000,00;10/04/2026;25/09/2026;inadimplente;2
+153;Épsilon Quinquagésima Terceira;10001112223;Sacado WWWWWW;39000,00;01/05/2026;01/04/2027;a_vencer;1
+154;Épsilon Quinquagésima Terceira;10001112223;Sacado XXXXXX;14700,00;01/05/2026;10/11/2026;a_vencer;2
+155;Zeta Quinquagésima Quarta;21112223334;Sacado YYYYYY;8700,00;25/01/2026;25/09/2026;a_vencer;1
+156;Zeta Quinquagésima Quarta;21112223334;Sacado ZZZZZZ;3400,00;25/01/2026;20/06/2026;inadimplente;2
+157;Eta Quinquagésima Quinta;32223334445;Sacado AAAAAAA;46000,00;15/02/2026;15/05/2027;a_vencer;1
+158;Eta Quinquagésima Quinta;32223334445;Sacado BBBBBBB;17200,00;15/02/2026;05/12/2026;a_vencer;2
+159;Theta Quinquagésima Sexta;43334445556;Sacado CCCCCCC;12500,00;20/03/2026;20/10/2026;a_vencer;1
+160;Theta Quinquagésima Sexta;43334445556;Sacado DDDDDDD;4900,00;20/03/2026;30/07/2026;inadimplente;2
+161;Iota Quinquagésima Sétima;54445556667;Sacado EEEEEEE;29000,00;05/04/2026;05/12/2026;a_vencer;1
+162;Iota Quinquagésima Sétima;54445556667;Sacado FFFFFFF;11000,00;05/04/2026;20/09/2026;a_vencer;2
+163;Kappa Quinquagésima Oitava;65556667778;Sacado GGGGGGG;19500,00;15/05/2026;15/01/2027;a_vencer;1
+164;Kappa Quinquagésima Oitava;65556667778;Sacado HHHHHHH;7400,00;15/05/2026;30/10/2026;inadimplente;2
+165;Lambda Quinquagésima Nona;76667778889;Sacado IIIIIII;34000,00;10/01/2026;10/11/2026;a_vencer;1
+166;Lambda Quinquagésima Nona;76667778889;Sacado JJJJJJJ;12700,00;10/01/2026;25/08/2026;a_vencer;2
+167;Mu Sexagésima;87778889990;Sacado KKKKKKK;8300,00;20/02/2026;20/10/2026;a_vencer;1
+168;Mu Sexagésima;87778889990;Sacado LLLLLLL;3200,00;20/02/2026;05/07/2026;inadimplente;2
+169;Nu Sexagésima Primeira;98889990001;Sacado MMMMMMM;43500,00;10/03/2026;10/05/2027;a_vencer;1
+170;Nu Sexagésima Primeira;98889990001;Sacado NNNNNNN;16000,00;10/03/2026;25/11/2026;a_vencer;2
+171;Xi Sexagésima Segunda;09990001112;Sacado OOOOOOO;25000,00;01/04/2026;01/12/2026;a_vencer;1
+172;Xi Sexagésima Segunda;09990001112;Sacado PPPPPPP;9600,00;01/04/2026;15/09/2026;inadimplente;2
+173;Omicron Sexagésima Terceira;10011022033;Sacado QQQQQQQ;14500,00;10/05/2026;10/01/2027;a_vencer;1
+174;Omicron Sexagésima Terceira;10011022033;Sacado RRRRRRR;5700,00;10/05/2026;25/10/2026;a_vencer;2
+175;Pi Sexagésima Quarta;21122033044;Sacado SSSSSSS;38000,00;15/01/2026;15/03/2027;a_vencer;1
+176;Pi Sexagésima Quarta;21122033044;Sacado TTTTTTT;14300,00;15/01/2026;10/12/2026;inadimplente;2
+177;Rho Sexagésima Quinta;32233044055;Sacado UUUUUUU;11500,00;25/02/2026;25/10/2026;a_vencer;1
+178;Rho Sexagésima Quinta;32233044055;Sacado VVVVVVV;4600,00;25/02/2026;20/07/2026;a_vencer;2
+179;Sigma Sexagésima Sexta;43344055066;Sacado WWWWWWW;27000,00;15/03/2026;15/11/2026;a_vencer;1
+180;Sigma Sexagésima Sexta;43344055066;Sacado XXXXXXX;10100,00;15/03/2026;30/08/2026;inadimplente;2
+181;Tau Sexagésima Sétima;54455066077;Sacado YYYYYYY;18000,00;20/04/2026;20/12/2026;a_vencer;1
+182;Tau Sexagésima Sétima;54455066077;Sacado ZZZZZZZ;7100,00;20/04/2026;05/09/2026;a_vencer;2
+183;Upsilon Sexagésima Oitava;65566077088;Sacado AAAAAAAA;44000,00;05/05/2026;05/08/2027;a_vencer;1
+184;Upsilon Sexagésima Oitava;65566077088;Sacado BBBBBBBB;16500,00;05/05/2026;20/11/2026;inadimplente;2
+185;Phi Sexagésima Nona;76677088099;Sacado CCCCCCCC;9800,00;20/01/2026;20/09/2026;a_vencer;1
+186;Phi Sexagésima Nona;76677088099;Sacado DDDDDDDD;3900,00;20/01/2026;05/06/2026;a_vencer;2
+187;Chi Septuagésima;87788099100;Sacado EEEEEEEE;33000,00;10/02/2026;10/01/2027;a_vencer;1
+188;Chi Septuagésima;87788099100;Sacado FFFFFFFF;12400,00;10/02/2026;20/10/2026;inadimplente;2
+189;Psi Septuagésima Primeira;98899100111;Sacado GGGGGGGG;22000,00;01/03/2026;01/11/2026;a_vencer;1
+190;Psi Septuagésima Primeira;98899100111;Sacado HHHHHHHH;8500,00;01/03/2026;15/08/2026;a_vencer;2
+191;Omega Septuagésima Segunda;09900111122;Sacado IIIIIIII;13500,00;10/04/2026;10/12/2026;a_vencer;1
+192;Omega Septuagésima Segunda;09900111122;Sacado JJJJJJJJ;5200,00;10/04/2026;25/09/2026;inadimplente;2
+193;Alpha Septuagésima Terceira;10001112223;Sacado KKKKKKKK;40000,00;01/05/2026;01/04/2027;a_vencer;1
+194;Alpha Septuagésima Terceira;10001112223;Sacado LLLLLLLL;15000,00;01/05/2026;10/11/2026;a_vencer;2
+195;Beta Septuagésima Quarta;21112223334;Sacado MMMMMMMM;9000,00;25/01/2026;25/09/2026;a_vencer;1
+196;Beta Septuagésima Quarta;21112223334;Sacado NNNNNNNN;3500,00;25/01/2026;20/06/2026;inadimplente;2
+197;Gama Septuagésima Quinta;32223334445;Sacado OOOOOOOO;47000,00;15/02/2026;15/05/2027;a_vencer;1
+198;Gama Septuagésima Quinta;32223334445;Sacado PPPPPPPP;17700,00;15/02/2026;05/12/2026;a_vencer;2
+199;Delta Septuagésima Sexta;43334445556;Sacado QQQQQQQQ;13000,00;20/03/2026;20/10/2026;a_vencer;1
+200;Delta Septuagésima Sexta;43334445556;Sacado RRRRRRRR;5100,00;20/03/2026;30/07/2026;inadimplente;2
+6;Gama Indústria ME;98765432100;Sacado F;12000,00;15/03/2026;01/02/2026;inadimplente;2
+id;cedente;cpf_cnpj;sacado;valor_nominal;data_aquisicao;data_vencimento;status;numero_parcela
